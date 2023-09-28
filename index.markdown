@@ -75,13 +75,15 @@ title: ""
 ## 要旨・参考資料など
 
 - 島谷健一郎（統数研）
-    - [5年前までの群集の生物多様性指数のreview+解説]({{ site.baseurl }}/assets/2019数理科学.pdf)  
+    - [5年前までの群集の生物多様性指数のreview+解説]({{ site.baseurl }}/assets/2019数理科学.pdf){:target="_blank"}  
 　
 - 深谷肇一（環境研）  
 　
 - 長田穣（東北大）  
 　
 - 東樹宏樹（京都大）  
+    - [群集関係の分析を含む論文原稿のbioRxivリンク](https://sites.google.com/site/ecoltj/%E6%9D%B1%E6%A8%B9-%E5%AE%8F%E5%92%8C-%E7%A0%94%E7%A9%B6%E5%AE%A4/%E6%A5%AD%E7%B8%BE%E5%87%BA%E7%89%88%E7%89%A9?authuser=0){:target="_blank"}  
+    - [プレスリリース資料へのリンク](https://sites.google.com/site/ecoltj/%E6%9D%B1%E6%A8%B9-%E5%AE%8F%E5%92%8C-%E7%A0%94%E7%A9%B6%E5%AE%A4/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B?authuser=0){:target="_blank"}  
 　
 - 川津一隆（東北大）  
 　
