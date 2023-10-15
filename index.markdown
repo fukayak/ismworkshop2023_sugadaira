@@ -78,6 +78,7 @@ title: ""
     - [5年前までの群集の生物多様性指数のreview+解説]({{ site.baseurl }}/assets/2019数理科学.pdf){:target="_blank"}  
 　
 - 深谷肇一（環境研）  
+    - [ESJ70自由集会での発表資料]({{ site.baseurl }}/assets/Fukaya.pdf){:target="_blank"}  
 　
 - 長田穣（東北大）  
 　
@@ -103,6 +104,11 @@ title: ""
 
 - 荒木希和子（滋賀県立大）
     - コンロンソウ地下茎の挙動と土壌環境の関係解析
+- 深谷肇一（環境研）
+    - Environmental DNA metabarcoding of benthic invertebrates in riverine environments: a model-based assessment of species detectability for optimized study design
+　
+  
+  
 　
 
 ---
