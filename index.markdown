@@ -105,10 +105,12 @@ title: ""
 
 ## ポスター掲示
 
+- 島谷健一郎（統数研）
+    - 群集生態学に法則性はあるか。科学哲学者の干渉と貢献  
 - 荒木希和子（滋賀県立大）
-    - コンロンソウ地下茎の挙動と土壌環境の関係解析
+    - コンロンソウ地下茎の挙動と土壌環境の関係解析  
 - 深谷肇一（環境研）
-    - Environmental DNA metabarcoding of benthic invertebrates in riverine environments: a model-based assessment of species detectability for optimized study design
+    - Environmental DNA metabarcoding of benthic invertebrates in riverine environments: a model-based assessment of species detectability for optimized study design  
 　
   
   
