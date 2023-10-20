@@ -111,6 +111,8 @@ title: ""
     - コンロンソウ地下茎の挙動と土壌環境の関係解析  
 - 深谷肇一（環境研）
     - Environmental DNA metabarcoding of benthic invertebrates in riverine environments: a model-based assessment of species detectability for optimized study design  
+- 矢島豪太（日本大）
+    - 野生動物の活動時間は人為的な攪乱に影響を受けるか？ディリクレ過程と方向統計を使った新たなアプローチ  
 　
   
   
