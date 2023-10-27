@@ -84,6 +84,8 @@ title: ""
     - [ESJ70自由集会での発表資料]({{ site.baseurl }}/assets/Fukaya.pdf){:target="_blank"}  
 　
 - 長田穣（東北大）  
+    - [Gao et al. (2016) Universal resilience patterns in complex networks.](https://www.nature.com/articles/nature16948){:target="_blank"}  
+    - [Laurence et al. (2019) Spectral dimension reduction of complex dynamical networks.](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011042){:target="_blank"}  
 　
 - 東樹宏樹（京都大）  
     - [群集関係の分析を含む論文原稿のbioRxivリンク](https://sites.google.com/site/ecoltj/%E6%9D%B1%E6%A8%B9-%E5%AE%8F%E5%92%8C-%E7%A0%94%E7%A9%B6%E5%AE%A4/%E6%A5%AD%E7%B8%BE%E5%87%BA%E7%89%88%E7%89%A9?authuser=0){:target="_blank"}  
