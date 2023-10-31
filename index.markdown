@@ -122,6 +122,10 @@ title: ""
     - Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating community-sourced data  
 - 山口万里花（東京都立大）
     - イワボタン―クチナガハバチの共生系の紹介  
+- 森元良太（北海道医療大）
+    - 科学哲学の観点からみた有意性検定と仮説検定  
+- 夏目佳枝（東京大）
+    - 群集構成と気象変動の組み合わせで決まる訪花者の応答多様性と相補性効果  
 　
   
   
