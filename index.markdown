@@ -132,6 +132,8 @@ title: ""
     - 環境DNAで景観遺伝学解析を行う場合の精度と適した要約統計量  
 - 三井譲（東京大）
     - Synchronization-induced Taylor's law of coupled oscillators  
+- 川津一隆（東北大）
+    - 生命現象の予測不可能性：その原因を観測データから探る  
 　
   
   
