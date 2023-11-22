@@ -80,6 +80,8 @@ title: ""
 
 - 島谷健一郎（統数研）
     - 観察されなかった種数の推定について、Chaoの推定式やサンプル被覆度などを知っている人も多いと思います。「5年前までの群集の生物多様性指数のreview+解説」はその解説ですが、数式変形などをもう少し詳しく解説した文書（2016年統数研公開講座で島谷が作成した教材を改変）も加えました。数式の細かな変形テクニックを追う必要は大半の生物系研究者に必要ないですが、どういう数学が背景にあってChaoの推定式が導出されたか、1回はしっかりした話を聞いておくことを勧めており、それが島谷が提供する話題の中心です。また、群集の多様性指数研究の先端については、Roswell et al. (2021)が生物系研究者にわかりやすい解説です。
+    - [講演スライド1]({{ site.baseurl }}/assets/生物多様性曼荼羅改訂版.pdf){:target="_blank"}  
+    - [講演スライド2]({{ site.baseurl }}/assets/生物多様性coverage改訂版.pdf){:target="_blank"}  
     - [5年前までの群集の生物多様性指数のreview+解説]({{ site.baseurl }}/assets/2019数理科学.pdf){:target="_blank"}  
     - [生物多様性指数の推定]({{ site.baseurl }}/assets/生物多様性指数の推定.pdf){:target="_blank"}  
     - [Roswell et al. (2021) A conceptual guide to measuring species diversity. Oikos 130:321--338.](https://doi.org/10.1111/oik.07202){:target="_blank"}  
