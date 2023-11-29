@@ -102,6 +102,7 @@ title: ""
 - 田中健太（筑波大）  
 　
 - 門脇浩明（京都大）  
+    - [講演スライド]({{ site.baseurl }}/assets/菅平研究集会2023 Kadowaki.pdf){:target="_blank"}  
     - [https://doi.org/10.1002/1438-390X.12158](https://doi.org/10.1002/1438-390X.12158){:target="_blank"}  
 　
 - 近藤倫生（東北大）  
